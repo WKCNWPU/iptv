@@ -5,8 +5,6 @@ https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8
 http://23.237.10.66:16372
 #EXTINF:-1 tvg-id="",CTS (HUA-CHI CTS) (1080p)
 rtmp://59.124.75.138:1935/sat/tv111
-#EXTINF:-1 tvg-id="CTSNews.tw",CTS News (華視新聞資訊) [Geo-blocked]
-http://seb.sason.top/sc/hsxw_fhd.m3u8
 #EXTINF:-1 tvg-id="DaAi1.tw",DaAi1 (大愛1) (720p)
 https://pulltv1.wanfudaluye.com/live/tv1.m3u8
 #EXTINF:-1 tvg-id="DaAi2.tw",DaAi2 (大愛2) (720p)
@@ -85,8 +83,6 @@ https://live.streamingfast.net/osmflivech49.m3u8
 https://live.streamingfast.net/osmflivech50.m3u8
 #EXTINF:-1 tvg-id="IndigenousTV.tw",Indigenous TV (720p)
 http://streamipcf.akamaized.net/live/_definst_/smil:liveabr.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="SETNews.tw",SET News (三立新聞) (1080p) [Geo-blocked]
-http://seb.sason.top/sc/sllive_fhd.m3u8
 #EXTINF:-1 tvg-id="TaiwanIndigenousTV.tw",Taiwan Indigenous TV (原住民電視) (720p)
 http://streamipcf.akamaized.net/live/_definst_/live_720/key_b1500.m3u8
 #EXTINF:-1 tvg-id="TaiwanPlusTV.tw",Taiwan Plus TV (1080p)
@@ -101,32 +97,5 @@ http://seb.sason.top/sc/tvbsxw_fhd.m3u8
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8
 #EXTINF:-1 tvg-id="TTV.tw",台视 (720p)
 http://162.19.247.76:22222/live/taishi/index.m3u8
-#EXTINF:-1 tvg-id="WXTV.tw",唯心電視 (480p)
-https://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
-#EXTINF:-1 tvg-id="GeniusGoGoGo.tw",天才衝衝衝 (1080p)
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV26.m3u8
-#EXTINF:-1 tvg-id="ETMall60.tw",東森購物60 (480p)
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV18.m3u8
-#EXTINF:-1 tvg-id="",立法院IVOD直播交通委員會 (450p)
-https://lylive-videorent.cdn.hinet.net/out/u/live/gop4/ly/ly-Live6/hls-cl-tv/index.m3u8
-#EXTINF:-1 tvg-id="",立法院IVOD直播內政委員會 (450p)
-https://lylive-videorent.cdn.hinet.net/out/u/live/gop4/ly/ly-Live7/hls-cl-tv/index.m3u8
-#EXTINF:-1 tvg-id="",立法院IVOD直播司法及法制委員會 (450p)
-https://lylive-videorent.cdn.hinet.net/out/u/live/gop4/ly/ly-Live9/hls-cl-tv/index.m3u8
-#EXTINF:-1 tvg-id="",立法院IVOD直播外交及國防委員會 (450p)
-https://lylive-videorent.cdn.hinet.net/out/u/live/gop4/ly/ly-Live8/hls-cl-tv/index.m3u8
-#EXTINF:-1 tvg-id="",立法院IVOD直播教育及文化委員會 (450p)
-https://lylive-videorent.cdn.hinet.net/out/u/live/gop4/ly/ly-Live4/hls-cl-tv/index.m3u8
-#EXTINF:-1 tvg-id="",立法院IVOD直播朝野協商 (450p)
-https://lylive-videorent.cdn.hinet.net/out/u/live/gop4/ly/ly-Live10/hls-cl-tv/index.m3u8
-#EXTINF:-1 tvg-id="",立法院IVOD直播社會福利及衛生環境委員會 (450p)
-https://lylive-videorent.cdn.hinet.net/out/u/live/gop4/ly/ly-Live3/hls-cl-tv/index.m3u8
-#EXTINF:-1 tvg-id="",立法院IVOD直播經濟委員會 (450p)
-https://lylive-videorent.cdn.hinet.net/out/u/live/gop4/ly/ly-Live5/hls-cl-tv/index.m3u8
-#EXTINF:-1 tvg-id="",立法院IVOD直播財政委員會 (450p)
-https://lylive-videorent.cdn.hinet.net/out/u/live/gop4/ly/ly-Live2/hls-cl-tv/index.m3u8
-#EXTINF:-1 tvg-id="",立法院IVOD直播院會 (450p)
-https://lylive-videorent.cdn.hinet.net/out/u/live/gop4/ly/ly-Live1/hls-cl-tv/index.m3u8
-https://rthktv36-live.akamaized.net/hls/live/2112176/RTHKTV36/master.m3u8
 #EXTINF:-1 tvg-id="PhoenixInfoNewsChannel.hk",凤凰资讯 (720p)
 http://php.17186.eu.org/phtv/fhzx.m3u8
